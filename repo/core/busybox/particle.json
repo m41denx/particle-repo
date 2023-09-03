@@ -1,0 +1,13 @@
+{
+	"name": "busybox",
+	"author": "core",
+	"note": "A 32-bit Windows version of busybox",
+	"block": "c580941b0d31e41f1454916e1bc7dfec",
+	"meta": {},
+	"recipe": {
+		"base": "blank",
+		"apply": [],
+		"engines": [],
+		"run": []
+	}
+}
