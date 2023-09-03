@@ -1,0 +1,13 @@
+{
+  "name": "python",
+  "author": "core",
+  "note": "A 64-bit Python 3.9.6",
+  "block": "53e2a6010f91226aa57753c795ef523a",
+  "meta": {},
+  "recipe": {
+    "base": "blank",
+    "apply": [],
+    "engines": [],
+    "run": []
+  }
+}
