@@ -1,0 +1,17 @@
+{
+	"name": "badge_customizer",
+	"author": "rainix",
+	"note": "Short description or note about usage",
+	"block": "c8d640d706769798df5c2b24fe6fe4ca",
+	"meta": {},
+	"recipe": {
+		"base": "blank",
+		"apply": [],
+		"engines": [
+			"core/busybox"
+		],
+		"run": [
+			"bash $MOD/install.sh"
+		]
+	}
+}

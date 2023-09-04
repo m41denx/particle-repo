@@ -1,0 +1,18 @@
+{
+	"name": "rainsystem@2.1",
+	"author": "rainix",
+	"note": "Short description or note about usage",
+	"block": "d287aadde7d49ea96da98614da939ad0",
+	"meta": {},
+	"recipe": {
+		"base": "blank",
+		"apply": [],
+		"engines": [
+			"core/busybox"
+		],
+		"run": [
+			"cp $MOD/rainsystem.dll dist/",
+			"cp $MOD/XInput9_1_0.dll dist/"
+		]
+	}
+}
