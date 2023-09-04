@@ -1,0 +1,15 @@
+{
+  "name": "gdps_windows@2.1",
+  "author": "fruitspace",
+  "note": "Short description or note about usage",
+  "block": "39eb7c12222ea3284a085d0b1e985b40",
+  "block_server": "https://storage.yandexcloud.net/gdps-installers/particle_repo/",
+
+  "meta": {},
+  "recipe": {
+    "base": "fruitspace/gdps_textures@2.1-uhd",
+    "apply": [],
+    "engines": [],
+    "run": []
+  }
+}
