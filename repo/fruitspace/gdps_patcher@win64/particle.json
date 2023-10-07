@@ -11,7 +11,7 @@
 			"core/busybox"
 		],
 		"run": [
-			"bash -c $MOD/patcher.exe"
+			"$MOD/patcher.exe"
 		]
 	}
 }
