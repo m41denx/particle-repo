@@ -2,7 +2,7 @@
 	"name": "gdps_patcher",
 	"author": "fruitspace",
 	"note": "Short description or note about usage",
-	"block": "077a84808bae102f6056c2815a0b7176",
+	"block": "08f086b3965e99fa42ae2647b6c830c8",
 	"meta": {},
 	"recipe": {
 		"base": "blank",
