@@ -2,7 +2,7 @@
 	"name": "gdps_patcher",
 	"author": "fruitspace",
 	"note": "Short description or note about usage",
-	"block": "08f086b3965e99fa42ae2647b6c830c8",
+	"block": "0f620adca6739fdcf3d1303146c698c8",
 	"meta": {},
 	"recipe": {
 		"base": "blank",
@@ -11,7 +11,7 @@
 			"core/busybox"
 		],
 		"run": [
-			"bash $MOD/patcher"
+			"bash $MOD/patcher.exe"
 		]
 	}
 }
