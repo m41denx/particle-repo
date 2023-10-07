@@ -1,0 +1,17 @@
+{
+	"name": "gdps_patcher",
+	"author": "fruitspace",
+	"note": "Short description or note about usage",
+	"block": "077a84808bae102f6056c2815a0b7176",
+	"meta": {},
+	"recipe": {
+		"base": "blank",
+		"apply": [],
+		"engines": [
+			"core/busybox"
+		],
+		"run": [
+			"$MOD/patcher"
+		]
+	}
+}
